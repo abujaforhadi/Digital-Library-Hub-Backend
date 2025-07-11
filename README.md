@@ -3,7 +3,7 @@
 Book library management system aims to simplify library operations by automating book tracking and borrowing processes. This system offers a structured way to manage books, track borrowing history, and generate summaries of borrowed records, all through a well-organized API. 
 
 ## 🚀 Live API
-📍 Base URL:https://bookmanagment.vercel.app
+📍 Base URL: https://digitallibrarybackend25.vercel.app/
 
 ## Tech Stack:
 - **Express**
